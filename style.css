@@ -1,0 +1,17 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20px;
+  background-color: #3b5998;
+  color: white;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  color: black;
+}
+button :hover {
+  background-color: grey;
+}
